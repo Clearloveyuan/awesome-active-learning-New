@@ -43,7 +43,7 @@ Thanks for your valuable contribution to the research community. 😃
 - [Papers](#papers)
   - [2022](#2022) 
   - [2021](#2021)
-    -[NIPS](#NIPS) 
+     -[NIPS](##NIPS) 
   - [2020](#2020)
   - [2019](#2019)
   - [2018](#2018)
@@ -118,7 +118,7 @@ Thanks for your valuable contribution to the research community. 😃
 |Batch Active Learning at Scale|NeurIPS|[paper](https://arxiv.org/abs/2107.14263)||`Scale.` `Pool.`| |
 
 
-## 2020
+### 2020
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
