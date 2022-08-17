@@ -112,11 +112,13 @@ Thanks for your valuable contribution to the research community. 😃
 |Cartography Active Learning |EMNLP Findings|[paper](https://arxiv.org/abs/2109.04282)|[code](https://github.com/jjzha/cal)|`Pool.`| |
 |Joint Semi-supervised and Active Learning for Segmentation of Gigapixel Pathology Images with Cost-Effective Labeling |ICCVW|[paper](https://openaccess.thecvf.com/content/ICCV2021W/CDPath/papers/Lai_Joint_Semi-Supervised_and_Active_Learning_for_Segmentation_of_Gigapixel_Pathology_ICCVW_2021_paper.pdf)||`Pool.`| |
 |PAL : Pretext-based Active Learning|BMVC|[paper](https://arxiv.org/abs/2010.15947)|[code](https://github.com/shubhangb97/PAL_pretext_based_active_learning)|`Pool.`| Cold-start problem|
-
-## NIPS
 |Active Learning for Deep Object Detection via Probabilistic Modeling|ICCV|[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Choi_Active_Learning_for_Deep_Object_Detection_via_Probabilistic_Modeling_ICCV_2021_paper.html)|[code](https://github.com/NVlabs/AL-MDN)|`Pool.`|GMM|
 |Unsupervised Data Selection for Data-Centric Semi-Supervised Learning|arXiv|[paper](https://arxiv.org/abs/2110.03006)||`Pool.`|Data selection + SSL|
 |Batch Active Learning at Scale|NeurIPS|[paper](https://arxiv.org/abs/2107.14263)||`Scale.` `Pool.`| |
+
+## NIPS
+| Title        |  Paper    | 
+| --------     |  :----:  |
 |Neural Active Learning with Performance Guarantees|[paper](https://papers.nips.cc/paper/2021/file/3dcaf04c357c577a857f3ffadc555f9b-Paper.pdf)
 
 
