@@ -4,15 +4,12 @@
 
 <font size=5><b> Background </b></font>
 
-![image](./fig/an_illustrative_AL_example.jpg)
 
 (`An illustrative example of pool-based active learning`. image source: [Settles, Burr](https://minds.wisconsin.edu/handle/1793/60660))
 
 <font size=5><b> What is Active Learning? </b></font>
 
 Active learning is a special case of machine learning in which a learning algorithm can interactively query a oracle (or some other information source) to label new data points with the desired outputs.
-
-![image](./fig/active_learning_cycle.jpg)
 
 (`The pool-based active learning cycle`. image source: [Settles, Burr](https://minds.wisconsin.edu/handle/1793/60660))
 
