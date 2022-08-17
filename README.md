@@ -117,6 +117,8 @@ Thanks for your valuable contribution to the research community. 😃
 |Active Learning for Deep Object Detection via Probabilistic Modeling|ICCV|[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Choi_Active_Learning_for_Deep_Object_Detection_via_Probabilistic_Modeling_ICCV_2021_paper.html)|[code](https://github.com/NVlabs/AL-MDN)|`Pool.`|GMM|
 |Unsupervised Data Selection for Data-Centric Semi-Supervised Learning|arXiv|[paper](https://arxiv.org/abs/2110.03006)||`Pool.`|Data selection + SSL|
 |Batch Active Learning at Scale|NeurIPS|[paper](https://arxiv.org/abs/2107.14263)||`Scale.` `Pool.`| |
+|Neural Active Learning with Performance Guarantees|[paper](https://papers.nips.cc/paper/2021/file/3dcaf04c357c577a857f3ffadc555f9b-Paper.pdf)
+
 
 
 ### 2020
