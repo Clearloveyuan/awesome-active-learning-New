@@ -73,6 +73,11 @@ Thanks for your valuable contribution to the research community. 😃
 
 # Papers
 
+| conferences |                                                              |                                                              |                                                              |      |      |      |      |
+| ---------- | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: | :--: | :--: | :--: |
+| ACL        | 2019 | 2020 | 2021 | [2022](https://github.com/Clearloveyuan/Awesome-Active-Learning/blob/main/Paper_Summary/ACL2022.md) | 2023 | 2024 | 2025 |
+| CVPR      | 2019 | 2020 | 2021 | [2022](https://github.com/Clearloveyuan/Awesome-Active-Learning/edit/main/Paper_Summary/CVPR2022.md) | 2023 | 2024 | 2025 |
+
 
 ## 2022
 
