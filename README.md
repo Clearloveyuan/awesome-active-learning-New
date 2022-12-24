@@ -76,6 +76,8 @@ Thanks for your valuable contribution to the research community. 😃
 
 ## 2022
 
+ACL [2022]()
+
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 |One-Bit Active Query With Contrastive Pairs|CVPR|[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_One-Bit_Active_Query_With_Contrastive_Pairs_CVPR_2022_paper.html)|  |`Pool.`|One-bit supervision task|
