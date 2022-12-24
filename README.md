@@ -76,18 +76,9 @@ Thanks for your valuable contribution to the research community. 😃
 
 ## 2022
 
-ACL [2022]()
+ACL [2022](https://github.com/Clearloveyuan/Awesome-Active-Learning/blob/main/Paper_Summary/ACL2022.md)
 
-| Title        | Publication |  Paper  |  Code  | Tags | Notes |
-| --------     | :-----: |  :----: | :----: |----|----|
-|One-Bit Active Query With Contrastive Pairs|CVPR|[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_One-Bit_Active_Query_With_Contrastive_Pairs_CVPR_2022_paper.html)|  |`Pool.`|One-bit supervision task|
-|Active label cleaning for improved dataset quality under resource constraints |Nature Communications|[paper](https://arxiv.org/abs/2109.00574)|[code](https://github.com/microsoft/InnerEye-DeepLearning/tree/1606729c7a16e1bfeb269694314212b6e2737939/InnerEye-DataQuality)|`Pool.`|Label cleaning|
-|Towards Fewer Annotations: Active Learning via Region Impurity and Prediction Uncertainty for Domain Adaptive Semantic Segmentation |CVPR|[paper](https://arxiv.org/abs/2111.12940)|[code](https://github.com/BIT-DA/RIPU)|`Pool.`||
-|Budget-aware Few-shot Learning via Graph Convolutional Network |arXiv|[paper](https://arxiv.org/abs/2201.02304)||`Pool.` `Meta.` `FS.`||
-|Using Self-Supervised Pretext Tasks for Active Learning |arXiv|[paper](https://arxiv.org/abs/2201.07459)|[code](https://github.com/johnsk95/PT4AL)|`Pool.` `SS.`|Cold-start problem|
-|Low-Budget Active Learning via Wasserstein Distance: An Integer Programming Approach|ICLR|[paper](https://arxiv.org/abs/2106.02968)||`Pool.`| Cold-start problem|
-|Active Learning by Feature Mixing|CVPR|[paper](https://arxiv.org/abs/2203.07034)|[code](https://github.com/AminParvaneh/alpha_mix_active_learning)|`Pool.`||
-|Coherence-based Label Propagation over Time Series for Accelerated Active Learning|ICLR|[paper](https://openreview.net/forum?id=gjNcH0hj0LM)| [code](https://github.com/kaist-dmlab/TCLP) |`Pool.`|Time series|
+
 
 ## 2021
 
