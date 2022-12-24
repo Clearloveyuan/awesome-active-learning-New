@@ -77,7 +77,7 @@ Thanks for your valuable contribution to the research community. 😃
 ## 2022
 
 ACL [2022](https://github.com/Clearloveyuan/Awesome-Active-Learning/blob/main/Paper_Summary/ACL2022.md)
-
+CVPR [2022]()
 
 
 ## 2021
