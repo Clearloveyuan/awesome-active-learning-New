@@ -64,31 +64,55 @@ Thanks for your valuable contribution to the research community. 😃
 
 # Conferences
 
-| Conference |          2019 and before           |                2020                |                2021                |               2022                | 2023 | 2024 | 2025 |
-|:----------:|:----------------------------------:|:----------------------------------:|:----------------------------------:|:---------------------------------:|:----:|:----:|:----:|
-|    ACL     |  [2019](Paper_Summary/ACL2019.md)  |  [2020](Paper_Summary/ACL2020.md)  |  [2021](Paper_Summary/ACL2021.md)  | [2022](Paper_Summary/ACL2022.md)  | 2023 | 2024 | 2025 |
-|    CVPR    | [2019](Paper_Summary/CVPR2019.md)  | [2020](Paper_Summary/CVPR2020.md)  | [2021](Paper_Summary/CVPR2021.md)  | [2022](Paper_Summary/CVPR2022.md) | 2023 | 2024 | 2025 |
-|    NIPS    | [2019](Paper_Summary/NIPS2019.md)  | [2020](Paper_Summary/NIPS2020.md)  | [2021](Paper_Summary/NIPS2021.md)  | [2022](Paper_Summary/NIPS2022.md) | 2023 | 2024 | 2025 |
-|    ICML    | [2019](Paper_Summary/ICML2019.md)  | [2020](Paper_Summary/ICML2020.md)  | [2021](Paper_Summary/ICML2021.md)  | [2022](Paper_Summary/ICML2022.md) | 2023 | 2024 | 2025 |
-|   EMNLP    | [2019](Paper_Summary/EMNLP2019.md) | [2020](Paper_Summary/EMNLP2020.md) | [2021](Paper_Summary/EMNLP2021.md) |               2022                | 2023 | 2024 | 2025 |
-|            |                2019                |                2020                |                2021                |               2022                | 2023 | 2024 | 2025 |
-|            |                2019                |                2020                |                2021                |               2022                | 2023 | 2024 | 2025 |
-|            |                2019                |                2020                |                2021                |               2022                | 2023 | 2024 | 2025 |
-|            |                2019                |                2020                |                2021                |               2022                | 2023 | 2024 | 2025 |
+|   Conference   |           2019 and before            |                 2020                 |                 2021                 |                 2022                 | 2023 | 2024 | 2025 |
+|:--------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|:----:|:----:|:----:|
+|      ACL       |   [2019](Paper_Summary/ACL2019.md)   |   [2020](Paper_Summary/ACL2020.md)   |   [2021](Paper_Summary/ACL2021.md)   |   [2022](Paper_Summary/ACL2022.md)   | 2023 | 2024 | 2025 |
+|      CVPR      |  [2019](Paper_Summary/CVPR2019.md)   |  [2020](Paper_Summary/CVPR2020.md)   |  [2021](Paper_Summary/CVPR2021.md)   |  [2022](Paper_Summary/CVPR2022.md)   | 2023 | 2024 | 2025 |
+|      NIPS      |  [2019](Paper_Summary/NIPS2019.md)   |  [2020](Paper_Summary/NIPS2020.md)   |  [2021](Paper_Summary/NIPS2021.md)   |  [2022](Paper_Summary/NIPS2022.md)   | 2023 | 2024 | 2025 |
+|      ICML      |  [2019](Paper_Summary/ICML2019.md)   |  [2020](Paper_Summary/ICML2020.md)   |  [2021](Paper_Summary/ICML2021.md)   |  [2022](Paper_Summary/ICML2022.md)   | 2023 | 2024 | 2025 |
+|     EMNLP      |  [2019](Paper_Summary/EMNLP2019.md)  |  [2020](Paper_Summary/EMNLP2020.md)  |  [2021](Paper_Summary/EMNLP2021.md)  |                 2022                 | 2023 | 2024 | 2025 |
+|      ECCV      |  [2019](Paper_Summary/ECCV2019.md)   |  [2020](Paper_Summary/ECCV2020.md)   |  [2021](Paper_Summary/ECCV2021.md)   |  [2022](Paper_Summary/ECCV2022.md)   | 2023 | 2024 | 2025 |
+|      ICCV      |  [2019](Paper_Summary/ICCV2019.md)   |  [2020](Paper_Summary/ICCV2020.md)   |  [2021](Paper_Summary/ICCV2021.md)   |  [2022](Paper_Summary/ICCV2022.md)   | 2023 | 2024 | 2025 |
+|      AAAI      |  [2019](Paper_Summary/AAAI2019.md)   |  [2020](Paper_Summary/AAAI2020.md)   |  [2021](Paper_Summary/AAAI2021.md)   |  [2022](Paper_Summary/AAAI2022.md)   | 2023 | 2024 | 2025 |
+|     IJCAI      |  [2019](Paper_Summary/IJCAI2019.md)  |  [2020](Paper_Summary/IJCAI2020.md)  |  [2021](Paper_Summary/IJCAI2021.md)  |                 2022                 | 2023 | 2024 | 2025 |
+|      ICLR      |  [2019](Paper_Summary/ICLR2019.md)   |  [2020](Paper_Summary/ICLR2020.md)   |  [2021](Paper_Summary/ICLR2021.md)   |  [2022](Paper_Summary/ICLR2022.md)   | 2023 | 2024 | 2025 |
+|      KDD       |   [2019](Paper_Summary/KDD2019.md)   |                 2020                 |                 2021                 |   [2022](Paper_Summary/KDD2022.md)   | 2023 | 2024 | 2025 |
+| ACM Multimedia |                 2019                 |  [2020](Paper_Summary/ACMM2020.md)   |                 2021                 |  [2022](Paper_Summary/ACMM2022.md)   | 2023 | 2024 | 2025 |
+|     ICASSP     | [2019](Paper_Summary/ICASSP2019.md)  | [2020](Paper_Summary/ICASSP2020.md)  | [2021](Paper_Summary/ICASSP2021.md)  |                 2022                 | 2023 | 2024 | 2025 |
+|    AISTATS     | [2019](Paper_Summary/AISTATS2019.md) | [2020](Paper_Summary/AISTATS2020.md) | [2021](Paper_Summary/AISTATS2021.md) | [2022](Paper_Summary/AISTATS2022.md) | 2023 | 2024 | 2025 |
+|     SIGIR      |  [2019](Paper_Summary/SIGIR2019.md)  |  [2020](Paper_Summary/SIGIR2020.md)  |                 2021                 |                 2022                 | 2023 | 2024 | 2025 |
+|      ICDM      |  [2019](Paper_Summary/ICDM2019.md)   |  [2020](Paper_Summary/ICDM2020.md)   |  [2021](Paper_Summary/ICDM2021.md)   |                 2022                 | 2023 | 2024 | 2025 |
+|     COLING     | [2019](Paper_Summary/COLING2019.md)  | [2020](Paper_Summary/COLING2020.md)  |                 2021                 |                 2022                 | 2023 | 2024 | 2025 |
+|      COLT      |  [2019](Paper_Summary/COLT2019.md)   |  [2020](Paper_Summary/COLT2020.md)   |  [2021](Paper_Summary/COLT2021.md)   |                 2022                 | 2023 | 2024 | 2025 |
+|     NAACL      |  [2019](Paper_Summary/NAACL2019.md)  |                 2020                 |  [2021](Paper_Summary/NAACL2021.md)  |  [2022](Paper_Summary/NAACL2022.md)  | 2023 | 2024 | 2025 |
+|      WACV      |                 2019                 |                 2020                 |                 2021                 |                 2022                 | 2023 | 2024 | 2025 |
+|     NLPCC      |                 2019                 |                 2020                 |                 2021                 |                 2022                 | 2023 | 2024 | 2025 |
+|     SIGMOD     |                 2019                 |                 2020                 |                 2021                 |                 2022                 | 2023 | 2024 | 2025 |
+|      ICDE      |                 2019                 |                 2020                 |                 2021                 |                 2022                 | 2023 | 2024 | 2025 |
+|      CIKM      |                 2019                 |                 2020                 |                 2021                 |                 2022                 | 2023 | 2024 | 2025 |
+
 
 # Journals
 
-|          Journal           | 2019 and before | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
-|:--------------------------:|:---------------:|:----:|:----:|:----:|:----:|:----:|:----:|
-|  Artificial Intelligence   |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
-|                            |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
-|                            |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
-|                            |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
-|                            |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
-|                            |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
-|                            |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
-|                            |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
-|                            |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|        Journal         | 2019 and before | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|:----------------------:|:---------------:|:----:|:----:|:----:|:----:|:----:|:----:|
+|          AIJ           |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|       IEEE PAMI        |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|          JMLR          |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|          CVIU          |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|          DKE           |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|         TASLP          |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|  Pattern Recognition   |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|    Neural Networks     |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|   Neural Computation   |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|    Machine Learning    |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|    Neural Networks     |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|       IEEE TNNLS       |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| IEEE Trans. Fuzzy Sys. |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|        IEEE CYB        |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|   IEEE Trans. Affect   |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|        IEEE TIP        |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+
 
 # Disclaimer
 
