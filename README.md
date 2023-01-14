@@ -106,7 +106,6 @@ Thanks for your valuable contribution to the research community. 😃
 |    Neural Networks     |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
 |   Neural Computation   |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
 |    Machine Learning    |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
-|    Neural Networks     |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
 |       IEEE TNNLS       |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
 | IEEE Trans. Fuzzy Sys. |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
 |        IEEE CYB        |      2019       | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |

@@ -1,0 +1,11 @@
+# IJCAI 2019
+
+| Year |                                                                  Title                                                                  |         Author         | Publication |                      Code                      | Tags | Notes |
+|:----:|:---------------------------------------------------------------------------------------------------------------------------------------:|:----------------------:|:-----------:|:----------------------------------------------:|:----:|:-----:|
+| 2019 | [Active Learning within Constrained Environments through Imitation of an Expert Questioner](https://www.ijcai.org/proceedings/2019/283) |     Bullard et al.     |    IJCAI    |                       -                        |      |       |
+| 2019 |             [Adaptive ensemble active learning for drifting data stream mining](https://www.ijcai.org/proceedings/2019/383)             |   Krawczyk and Cano    |    IJCAI    |                       -                        |      |       |
+| 2019 |                      [Deep Active Learning for Anchor User Prediction](https://www.ijcai.org/proceedings/2019/298)                      |      Cheng et al.      |    IJCAI    |   [code](https://github.com/chengaf/DALAUP)    |      |       |
+| 2019 |                      [Deep Active Learning with Adaptive Acquisition](https://www.ijcai.org/proceedings/2019/343)                       |    Haussmann et al.    |    IJCAI    | [code](https://github.com/manuelhaussmann/ral) |      |       |
+| 2019 |           [Bidirectional Active Learning with Gold-Instance-Based Human Training](https://www.ijcai.org/proceedings/2019/830)           |          Tang          |    IJCAI    |                       -                        |      |       |
+| 2019 |                    [Multi-View Active Learning for Video Recommendation](https://www.ijcai.org/proceedings/2019/284)                    |       Cai et al.       |    IJCAI    |                       -                        |      |       |
+| 2019 |                                  [Mindful Active Learning](https://www.ijcai.org/proceedings/2019/314)                                  | Ashari and Ghasemzadeh |    IJCAI    |     [code](https://github.com/zhesna/EMMA)     |      |       |
