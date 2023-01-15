@@ -102,8 +102,8 @@ Thanks for your valuable contribution to the research community. 😃
 |          CVIU          | [2019](Paper_Summary/CVIU2019.md)  |                2020                |                2021                |                2022                | 2023 | 2024 | 2025 |
 |          DKE           |  [2019](Paper_Summary/DKE2019.md)  |                2020                |                2021                |                2022                | 2023 | 2024 | 2025 |
 |         TASLP          | [2019](Paper_Summary/TASLP2019.md) | [2020](Paper_Summary/TASLP2020.md) | [2021](Paper_Summary/TASLP2021.md) |                2022                | 2023 | 2024 | 2025 |
-|  Pattern Recognition   |                2019                |                2020                |                2021                |                2022                | 2023 | 2024 | 2025 |
-|    Neural Networks     |                2019                |                2020                |                2021                |                2022                | 2023 | 2024 | 2025 |
+|  Pattern Recognition   |  [2019](Paper_Summary/PR2019.md)   |                2020                |  [2021](Paper_Summary/PR2021.md)   |  [2022](Paper_Summary/PR2022.md)   | 2023 | 2024 | 2025 |
+|    Neural Networks     |  [2019](Paper_Summary/NN2019.md)   |                2020                |  [2021](Paper_Summary/NN2021.md)   |  [2022](Paper_Summary/NN2022.md)   | 2023 | 2024 | 2025 |
 |   Neural Computation   |                2019                |                2020                |                2021                |                2022                | 2023 | 2024 | 2025 |
 |    Machine Learning    |                2019                |                2020                |                2021                |                2022                | 2023 | 2024 | 2025 |
 |       IEEE TNNLS       |                2019                |                2020                |                2021                |                2022                | 2023 | 2024 | 2025 |
