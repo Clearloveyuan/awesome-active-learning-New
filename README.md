@@ -85,11 +85,11 @@ Thanks for your valuable contribution to the research community. 😃
 |   COLING   | [2019](Paper_Summary/COLING2019.md)  | [2020](Paper_Summary/COLING2020.md)  |                 2021                 |                 2022                 | 2023 | 2024 | 2025 |
 |    COLT    |  [2019](Paper_Summary/COLT2019.md)   |  [2020](Paper_Summary/COLT2020.md)   |  [2021](Paper_Summary/COLT2021.md)   |                 2022                 | 2023 | 2024 | 2025 |
 |   NAACL    |  [2019](Paper_Summary/NAACL2019.md)  |                 2020                 |  [2021](Paper_Summary/NAACL2021.md)  |  [2022](Paper_Summary/NAACL2022.md)  | 2023 | 2024 | 2025 |
-|    WACV    |                 2019                 |                 2020                 |                 2021                 |                 2022                 | 2023 | 2024 | 2025 |
-|   NLPCC    |                 2019                 |                 2020                 |                 2021                 |                 2022                 | 2023 | 2024 | 2025 |
-|   SIGMOD   |                 2019                 |                 2020                 |                 2021                 |                 2022                 | 2023 | 2024 | 2025 |
-|    ICDE    |                 2019                 |                 2020                 |                 2021                 |                 2022                 | 2023 | 2024 | 2025 |
-|    CIKM    |                 2019                 |                 2020                 |                 2021                 |                 2022                 | 2023 | 2024 | 2025 |
+|    WACV    |                 2019                 |                 2020                 |  [2021](Paper_Summary/WACV2021.md)   |                 2022                 | 2023 | 2024 | 2025 |
+|   NLPCC    |                 2019                 |  [2020](Paper_Summary/NLPCC2020.md)  |                 2021                 |                 2022                 | 2023 | 2024 | 2025 |
+|   SIGMOD   | [2019](Paper_Summary/SIGMOD2019.md)  | [2020](Paper_Summary/SIGMOD2020.md)  |                 2021                 |                 2022                 | 2023 | 2024 | 2025 |
+|    ICDE    |                 2019                 |  [2020](Paper_Summary/ICDE2020.md)   |  [2021](Paper_Summary/ICDE2021.md)   |                 2022                 | 2023 | 2024 | 2025 |
+|    CIKM    |                 2019                 |  [2020](Paper_Summary/CIKM2020.md)   |  [2021](Paper_Summary/CIKM2021.md)   |  [2022](Paper_Summary/CIKM2022.md)   | 2023 | 2024 | 2025 |
 
 
 # Journals
@@ -104,14 +104,18 @@ Thanks for your valuable contribution to the research community. 😃
 |         TASLP          | [2019](Paper_Summary/TASLP2019.md) | [2020](Paper_Summary/TASLP2020.md) | [2021](Paper_Summary/TASLP2021.md) |                2022                | 2023 | 2024 | 2025 |
 |  Pattern Recognition   |  [2019](Paper_Summary/PR2019.md)   |                2020                |  [2021](Paper_Summary/PR2021.md)   |  [2022](Paper_Summary/PR2022.md)   | 2023 | 2024 | 2025 |
 |    Neural Networks     |  [2019](Paper_Summary/NN2019.md)   |                2020                |  [2021](Paper_Summary/NN2021.md)   |  [2022](Paper_Summary/NN2022.md)   | 2023 | 2024 | 2025 |
-|   Neural Computation   |                2019                |                2020                |                2021                |                2022                | 2023 | 2024 | 2025 |
-|    Machine Learning    |                2019                |                2020                |                2021                |                2022                | 2023 | 2024 | 2025 |
-|       IEEE TNNLS       |                2019                |                2020                |                2021                |                2022                | 2023 | 2024 | 2025 |
-| IEEE Trans. Fuzzy Sys. |                2019                |                2020                |                2021                |                2022                | 2023 | 2024 | 2025 |
-|        IEEE CYB        |                2019                |                2020                |                2021                |                2022                | 2023 | 2024 | 2025 |
-|   IEEE Trans. Affect   |                2019                |                2020                |                2021                |                2022                | 2023 | 2024 | 2025 |
-|        IEEE TIP        |                2019                |                2020                |                2021                |                2022                | 2023 | 2024 | 2025 |
+|   Neural Computation   |                2019                |  [2020](Paper_Summary/NC2020.md)   |                2021                |                2022                | 2023 | 2024 | 2025 |
+|    Machine Learning    |  [2019](Paper_Summary/ML2019.md)   |  [2020](Paper_Summary/ML2020.md)   |  [2021](Paper_Summary/ML2021.md)   |  [2022](Paper_Summary/ML2022.md)   | 2023 | 2024 | 2025 |
+|       IEEE TNNLS       | [2019](Paper_Summary/TNNLS2019.md) |                2020                | [2021](Paper_Summary/TNNLS2021.md) | [2022](Paper_Summary/TNNLS2022.md) | 2023 | 2024 | 2025 |
+| IEEE Trans. Fuzzy Sys. |  [2019](Paper_Summary/TFS2019.md)  |  [2020](Paper_Summary/TFS2020.md)  |                2021                |  [2022](Paper_Summary/TFS2022.md)  | 2023 | 2024 | 2025 |
+|        IEEE CYB        |  [2019](Paper_Summary/CYB2019.md)  |  [2020](Paper_Summary/CYB2020.md)  |                2021                |  [2022](Paper_Summary/CYB2022.md)  | 2023 | 2024 | 2025 |
+|   IEEE Trans. Affect   |                2019                |                2020                |                2021                |  [2022](Paper_Summary/TAC2022.md)  | 2023 | 2024 | 2025 |
+|        IEEE TIP        |  [2019](Paper_Summary/TIP2019.md)  |  [2020](Paper_Summary/TIP2020.md)  |  [2021](Paper_Summary/TIP2021.md)  |  [2022](Paper_Summary/TIP2022.md)  | 2023 | 2024 | 2025 |
 
+
+# Preprint
+
+[arXiv](Paper_Summary/arXiv.md)
 
 # Disclaimer
 
