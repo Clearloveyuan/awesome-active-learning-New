@@ -1,0 +1,10 @@
+# AISTATS 2021
+
+| Year |                                                               Title                                                               |    Author    | Publication |                                 Code                                 | Tags | Notes |
+|:----:|:---------------------------------------------------------------------------------------------------------------------------------:|:------------:|:-----------:|:--------------------------------------------------------------------:|:----:|:-----:|
+| 2021 |      [Bayesian Active Learning by Soft Mean Objective Cost of Uncertainty](https://proceedings.mlr.press/v130/zhao21c.html)       | Zhao et al.  |   AISTATS   |                                  -                                   |      |       |
+| 2021 |          [Active Learning with Maximum Margin Sparse Gaussian Processes](https://proceedings.mlr.press/v130/shi21a.html)          |  Shi and Yu  |   AISTATS   |                                  -                                   |      |       |
+| 2021 |   [Revisiting Model-Agnostic Private Learning: Faster Rates and Active Learning](http://proceedings.mlr.press/v130/liu21c.html)   |  Liu et al.  |   AISTATS   |                                  -                                   |      |       |
+| 2021 |                      [Feedback Coding for Active Learning](https://proceedings.mlr.press/v130/canal21a.html)                      | Canal et al. |   AISTATS   | [code](https://github.com/Sensory-Information-Processing-Lab/APM-LR) |      |       |
+| 2021 | [Towards Understanding the Behaviors of Optimal Deep Active Learning Algorithms](https://proceedings.mlr.press/v130/zhou21b.html) | Zhou et al.  |   AISTATS   |     [code](https://github.com/YilunZhou/optimal-active-learning)     |      |       |
+| 2021 |                       [Active Learning under Label Shift](https://proceedings.mlr.press/v130/zhao21b.html)                        | Zhao et al.  |   AISTATS   |                                  -                                   |      |       |
