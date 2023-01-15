@@ -125,7 +125,7 @@ Some results come from [DBLP](https://dblp.org/), [ACL](https://aclanthology.org
 
 # Contributers
 
-___TODO___
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Clearloveyuan/Awesome-Active-Learning)
 
 # Acknowledgement
 
