@@ -1,6 +1,6 @@
 | Year |                                                                                Title                                                                                |   Author   | Publication | Code | Tags | Notes | Tasks | Datasets|
 |:----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:-----------:|:----:|:----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----:|:-----:|
-|2023| [The Best of Both Worlds: Combining Human and Machine Translations for Multilingual Semantic Parsing with Active Learning](https://aclanthology.org/2023.acl-long.529.pdf)|Li et al. |ACL | | | | | |
-|2023| [Counterfactual Active Learning for Out-of-Distribution Generalization](https://aclanthology.org/2023.acl-long.636/)|Deng et al. |ACL | | | | | |
-|2023| [Transfer and Active Learning for Dissonance Detection: Addressing the Rare-Class Challenge](https://aclanthology.org/2023.acl-long.665/)|Vasudha Varadarajan et al. |ACL | | | | | |
-|2023| [Deep Active Learning for Morphophonological Processing](https://aclanthology.org/2023.acl-short.69/)|Seyed Morteza Mirbostani et al. |ACL | | | | | |
+|2023| [Nonparametric Indirect Active Learning](https://realworldml.github.io/files/cr/paper34.pdf)|Shashank Singh |AISTAS | | | | | |
+|2023| [FAIR: Fair Collaborative Active Learning with Individual Rationality for Scientific Discovery](https://proceedings.mlr.press/v206/xu23e/xu23e.pdf)|Xu et al. |AISTAS | | | | | |
+|2023| [Active Learning for Single Neuron Models with Lipschitz Non-Linearities](https://arxiv.org/pdf/2210.13601.pdf)|Aarshvi Gajjar et al. |AISTAS | | | | | |
+|2023| [Prediction-Oriented Bayesian Active Learning](https://arxiv.org/pdf/2304.08151.pdf)|Freddie Bickford Smith et al. |AISTAS | | | | | |
