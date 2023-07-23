@@ -1,7 +1,7 @@
 # AISTATS 2019 and before
 
-| Year |                                                            Title                                                             |       Author        | Publication | Code | Tags | Notes |
-|:----:|:----------------------------------------------------------------------------------------------------------------------------:|:-------------------:|:-----------:|:----:|:----:|:-----:|
+| Year |                                                       Title                                                       |   Author    | Publication | Code | Tasks | Notes | Datasets| Notions |
+|:----:|:-----------------------------------------------------------------------------------------------------------------:|:-----------:|:-----------:|:----:|:----:|:-----:|:-----:|:-----:|
 | 2019 |       [A Robust Zero-Sum Game Framework for Pool-based Active Learning](https://proceedings.mlr.press/v89/zhu19a.html)       |     Zhu et al.      |   AISTATS   |  -   |      |       |
 | 2019 | [HS2: Active learning over hypergraphs with pointwise and pairwise queries](https://proceedings.mlr.press/v89/chien19a.html) |    Chien et al.     |   AISTATS   |  -   |      |       |
 | 2019 |                       [Region-Based Active Learning](https://proceedings.mlr.press/v89/cortes19a.html)                       |    Cortes et al.    |   AISTATS   |  -   |      |       |
