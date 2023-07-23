@@ -1,7 +1,7 @@
 # IJCAI 2019 and before
 
-| Year |                                                                  Title                                                                  |         Author         | Publication |                      Code                      | Tags | Notes |
-|:----:|:---------------------------------------------------------------------------------------------------------------------------------------:|:----------------------:|:-----------:|:----------------------------------------------:|:----:|:-----:|
+| Year |                                                       Title                                                       |   Author    | Publication | Code | Tasks | Notes | Datasets| Notions |
+|:----:|:-----------------------------------------------------------------------------------------------------------------:|:-----------:|:-----------:|:----:|:----:|:-----:|:-----:|:-----:|
 | 2019 | [Active Learning within Constrained Environments through Imitation of an Expert Questioner](https://www.ijcai.org/proceedings/2019/283) |     Bullard et al.     |    IJCAI    |                       -                        |      |       |
 | 2019 |             [Adaptive ensemble active learning for drifting data stream mining](https://www.ijcai.org/proceedings/2019/383)             |   Krawczyk and Cano    |    IJCAI    |                       -                        |      |       |
 | 2019 |                      [Deep Active Learning for Anchor User Prediction](https://www.ijcai.org/proceedings/2019/298)                      |      Cheng et al.      |    IJCAI    |   [code](https://github.com/chengaf/DALAUP)    |      |       |
