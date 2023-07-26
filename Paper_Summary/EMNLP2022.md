@@ -10,3 +10,5 @@
 | 2022 | [An Efficient Active Learning Pipeline for Legal Text Classification](https://aclanthology.org/2022.nllp-1.32/) |  Sepideh Mamooler et al.    |    EMNLP    |-  |      |       |       |       |
 | 2022 | [OLALA: Object-Level Active Learning for Efficient Document Layout Annotation](https://aclanthology.org/2022.nlpcss-1.19/) |   Zejiang Shen et al.    |    EMNLP    |-  |      |       |       |       |
 | 2022 | [AfroLM: A Self-Active Learning-based Multilingual Pretrained Language Model for 23 African Languages](https://aclanthology.org/2022.sustainlp-1.11/) |  Bonaventure F. P. Dossou et al.    |    EMNLP    |-  |      |       |       |       |
+| 2022 | [Few-shot initializing of Active Learner via Meta-Learning](https://aclanthology.org/2022.findings-emnlp.80/) |  Zi Long Zhu et al.    |    EMNLP    |-  |      |       |       |       |
+| 2022 | [Low-resource Interactive Active Labeling for Fine-tuning Language Models](https://aclanthology.org/2022.findings-emnlp.235/) |  Seiji Maekawa et al.    |    EMNLP    |-  |      |       |       |       |
