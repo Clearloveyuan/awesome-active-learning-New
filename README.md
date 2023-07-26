@@ -114,6 +114,8 @@ Thanks for your valuable contribution to the research community. 😃
 
 
 # Tools 
+ActiveAnno: General-Purpose Document-Level Annotation Tool with Active Learning Integration  [ACTIVEANNO](https://www.lighttag.io/)
+
 Data Annotation Online Platform: [SMART](https://rtiinternational.github.io/SMART/) 
 
 ALToolbox: A Set of Tools for Active Learning Annotation  [ALToolbox](https://github.com/AIRI-Institute/al_toolbox)
