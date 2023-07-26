@@ -115,7 +115,9 @@ Thanks for your valuable contribution to the research community. 😃
 
 # Tools 
 Data Annotation Online Platform: [SMART](https://rtiinternational.github.io/SMART/) 
+
 ALToolbox: A Set of Tools for Active Learning Annotation  [ALToolbox](https://github.com/AIRI-Institute/al_toolbox)
+
 # Preprint
 
 [arXiv](Paper_Summary/arXiv.md)
