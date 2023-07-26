@@ -1,0 +1,12 @@
+# ENMLP 2022
+
+| Year |                                                       Title                                                       |   Author    | Publication | Code | Tasks | Notes | Datasets| Notions |
+|:----:|:-----------------------------------------------------------------------------------------------------------------:|:-----------:|:-----------:|:----:|:----:|:-----:|:-----:|:-----:|
+| 2022 |   [A Survey of Active Learning for Natural Language Processing](https://aclanthology.org/2022.emnlp-main.414/)    |zhang et al. |    EMNLP    |  -   |      |       |       |       |
+| 2022 | [ALToolbox: A Set of Tools for Active Learning Annotation of Natural Language Texts](https://aclanthology.org/2022.emnlp-demos.41/) |   Akim Tsvigun et al.    |    EMNLP    |-  |      |       |       |       |
+| 2022 | [COMET-QE and Active Learning for Low-Resource Machine Translation](https://aclanthology.org/2022.findings-emnlp.348/) |   Everlyn Chimoto et al.    |    EMNLP    |-  |      |       |       |       |
+| 2022 | [Active Learning for Abstractive Text Summarization](https://aclanthology.org/2022.findings-emnlp.377/) | Akim Tsvigun  et al.    |    EMNLP    |-  |      |       |       |       |
+| 2022 | [Multi-View Active Learning for Short Text Classification in User-Generated Data](https://aclanthology.org/2022.findings-emnlp.481/) | Payam Karisani  et al.    |    EMNLP    |-  |      |       |       |       |
+| 2022 | [An Efficient Active Learning Pipeline for Legal Text Classification](https://aclanthology.org/2022.nllp-1.32/) |  Sepideh Mamooler et al.    |    EMNLP    |-  |      |       |       |       |
+| 2022 | [OLALA: Object-Level Active Learning for Efficient Document Layout Annotation](https://aclanthology.org/2022.nlpcss-1.19/) |   Zejiang Shen et al.    |    EMNLP    |-  |      |       |       |       |
+| 2022 | [AfroLM: A Self-Active Learning-based Multilingual Pretrained Language Model for 23 African Languages](https://aclanthology.org/2022.sustainlp-1.11/) |  Bonaventure F. P. Dossou et al.    |    EMNLP    |-  |      |       |       |       |
